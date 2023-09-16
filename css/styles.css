@@ -56,7 +56,8 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.address-mailtel: hover,.address-mailtel:focus {
+.address-mailtel:hover,
+.address-mailtel:focus {
   color: #404bbf;
 }
 .tit-btn {
