@@ -51,18 +51,13 @@ ul {
 }
 .address-item {
 }
-.address-mail {
+.address-mailtel {
   color: #434455;
-  font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.address-mail:hover,
-.address-mail:focus {
+.address-mailtel: hover,.address-mailtel:focus {
   color: #404bbf;
-}
-.address-tel {
 }
 .tit-btn {
   background-color: #2e2f42;
